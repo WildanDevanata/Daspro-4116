@@ -1,0 +1,9 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout << "Nama Lengkap   : WILDAN DEVANATA RIZKYVIANTO \nNIM            : A11.2022.14593 \nKelamin        : Laki - Laki \nTTL            : Ngawi, 26 Oktober 2003 \nAnak Ke        : 2(kedua) dari 3 bersaudara \nAlamat         : Jl. Bima II No.51, Pendrikan Kidul, Semarang Tengah, Semarang City, Jawa Tengah 50131 \nStatus         : Mahasiswa \nProdi/jurusan  : Teknik Informatika"  << endl;
+    return 0;
+}
